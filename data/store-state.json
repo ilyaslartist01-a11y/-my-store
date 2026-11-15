@@ -1,0 +1,385 @@
+{
+  "config": {
+    "ownerConfigured": true,
+    "ownerPasswordHash": "a283396e909dba0a43901f21bfb404fc:8d7caaf0c72f8647cf594a5e78e3dacda61d07f28dea3c9ca837a057d48e9dbcc0fd5fa58f4a7e300f5ddbf68866460853b771d917ef69e5004da65b60aea66f",
+    "updatedAt": "2026-11-14T19:01:02.855Z"
+  },
+  "design": {
+    "brandName": "Skeleton Store",
+    "heroEyebrow": "دار الأزياء الخاصة · تشكيلة حصرية",
+    "heroTitle": "ملابس مفصلة بعناية وإصدارات محدودة",
+    "heroSubtitle": "مجموعة أزياء مختارة بعناية وبتصميمك الشخصي حسب طلبك وذوقك.",
+    "heroImage": "/assets/aistudio/IMG_20261114_220710_aa9d7c03.png",
+    "bgColor": "#141812",
+    "surfaceColor": "#1E241A",
+    "textColor": "#F2ECE0",
+    "mutedColor": "#B0B5A6",
+    "accentColor": "#6BB83B",
+    "borderColor": "#34402C",
+    "gridColumns": 3,
+    "radiusStyle": "sharp",
+    "defaultCurrency": "USD",
+    "contactEmail": "",
+    "contactPhone": "",
+    "contactInstagram": ""
+  },
+  "products": [
+    {
+      "id": "wool-overcoat",
+      "title": "معطف صوف فاحم مزدوج الصدر",
+      "subtitle": "Double-Breasted Wool Overcoat",
+      "category": "المعاطف",
+      "edition": "إصدار الخريف · 01",
+      "fabric": "صوف بكر إيطالي 100% بوزن 580 جم",
+      "cut": "قصّة كلاسيكية مهيكلة بأكتاف محددة",
+      "lengthCm": 112,
+      "widthCm": 56,
+      "stock": 8,
+      "currency": "USD",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 1850,
+      "image": "/src/assets/images/product_wool_coat_1794528340802.jpg",
+      "description": "معطف رسمي طويل مفصّل بدقة من الصوف الفاحم الثقيل مع طية صدر عريضة وبطانة داخلية ناعمة توفر ثباتاً وأناقة عالية في المناسبات الرسمية.",
+      "createdAt": "2026-11-12T10:00:00.000Z"
+    },
+    {
+      "id": "silk-shirt",
+      "title": "قميص حريري مقصّب بلون العاج",
+      "subtitle": "Structured Ivory Silk-Cotton Shirt",
+      "category": "القمصان",
+      "edition": "إصدار الاستوديو · 02",
+      "fabric": "مزيج حرير التوت والقطن المصري طويل التيلة",
+      "cut": "قصّة رسمية متوازنة مع ياقة مقوّاة",
+      "lengthCm": 76,
+      "widthCm": 52,
+      "stock": 14,
+      "currency": "USD",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 690,
+      "image": "/src/assets/images/product_silk_shirt_1794528340066.jpg",
+      "description": "قميص رسمي بلون العاج الدافئ بأزرار صدفية طبيعية وأساور فرنسية دقيقة، مصمم ليمنح مظهراً رصيناً ومريحاً طوال اليوم.",
+      "createdAt": "2026-11-12T10:05:00.000Z"
+    },
+    {
+      "id": "cashmere-set",
+      "title": "كنزة كشمير فاخرة وسروال صوف مفصّل",
+      "subtitle": "Cashmere Knit & Tailored Trousers",
+      "category": "التريكو والبنطلونات",
+      "edition": "مجموعة المقربين · 03",
+      "fabric": "كشمير خالص مزدوج الخيط مع صوف ميرينو",
+      "cut": "قصّة مريحة متناسقة بخصر متوسط الارتفاع",
+      "lengthCm": 70,
+      "widthCm": 54,
+      "stock": 10,
+      "currency": "USD",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 1240,
+      "image": "/src/assets/images/product_cashmere_knit_1794528340747.jpg",
+      "description": "طقم أنيق يجمع بين كنزة محبوكة من الكشمير الرمادي الداكن وسروال رسمي بطيّات أمامية حادة، يجمع بين الفخامة والراحة العملية.",
+      "createdAt": "2026-11-12T10:10:00.000Z"
+    }
+  ],
+  "deliveryRates": {
+    "10": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "11": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "12": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "13": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "14": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "15": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "16": {
+      "postOfficePrice": 4,
+      "homePrice": 6
+    },
+    "17": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "18": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "19": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "20": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "21": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "22": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "23": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "24": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "25": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "26": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "27": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "28": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "29": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "30": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "31": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "32": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "33": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "34": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "35": {
+      "postOfficePrice": 4,
+      "homePrice": 6
+    },
+    "36": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "37": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "38": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "39": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "40": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "41": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "42": {
+      "postOfficePrice": 4,
+      "homePrice": 6
+    },
+    "43": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "44": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "45": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "46": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "47": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "48": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "49": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "50": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "51": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "52": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "53": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "54": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "55": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "56": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "57": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "58": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "59": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "60": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "61": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "62": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "63": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "64": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "65": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "66": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "67": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "68": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "69": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "01": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "02": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "03": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "04": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "05": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "06": {
+      "postOfficePrice": 5,
+      "homePrice": 7
+    },
+    "07": {
+      "postOfficePrice": 6,
+      "homePrice": 9
+    },
+    "08": {
+      "postOfficePrice": 8,
+      "homePrice": 12
+    },
+    "09": {
+      "postOfficePrice": 4,
+      "homePrice": 6
+    }
+  },
+  "vipCoupons": [],
+  "vipRequests": [],
+  "orders": [],
+  "contactMessages": [],
+  "ownerTokens": [
+    {
+      "token": "acb6683946ffa8c1b5d3591a330d0afa7c1d9ee5f7794eabe3a995e7116cdfe2",
+      "createdAt": 1794682862856
+    }
+  ]
+}

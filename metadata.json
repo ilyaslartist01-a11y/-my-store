@@ -1,0 +1,6 @@
+{
+  "name": "Skeleton Store",
+  "description": "بوابة وصول خاصة ومتجر Skeleton Store بموافقة المالك وسياسة الخصوصية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
